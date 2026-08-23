@@ -310,7 +310,7 @@ This means:
 |---|---|
 | Menna Mahmoud | Developer & Team Lead |
 | Shaza Mohamed | Developer |
-| Menna Ajmed | Developer |
+| Menna Ahmed | Developer |
 =======
 
 ## 🛠️ Technologies Used
