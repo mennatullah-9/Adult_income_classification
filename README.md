@@ -303,6 +303,15 @@ This means:
 
 ---
 
+
+## 👥 Team
+
+| Team Member | Role |
+|---|---|
+| Menna Mahmoud | Developer & Team Lead |
+| Shaza Mohamed | Developer |
+| Menna Ajmed | Developer |
+
 ## 🛠️ Technologies Used
 
 - Python
