@@ -303,7 +303,6 @@ This means:
 
 ---
 
-<<<<<<< HEAD
 
 ## 👥 Team
 
@@ -313,17 +312,6 @@ This means:
 | Shaza Mohamed | Developer |
 | Menna Ajmed | Developer |
 =======
-## 👥 Team
-
-
-+----------------+----------------------+
-| Team Member    | Role                 |
-+----------------+----------------------+
-| Menna Mahmoud  | Developer & Team Lead|
-| Shaza Mohamed  | Developer            |
-| Menna Ajmed    | Developer            |
-+----------------+----------------------+
->>>>>>> a54773b921dfe3da48d7463550eba64fbf070f11
 
 ## 🛠️ Technologies Used
 
