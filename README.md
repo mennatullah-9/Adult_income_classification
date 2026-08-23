@@ -302,6 +302,20 @@ This means:
 - Outliers were investigated rather than automatically removed, since extreme values may represent valid observations.
 
 ---
+---
+
+## 👥 Team
+
+Team
+====
+
++----------------+----------------------+
+| Team Member    | Role                 |
++----------------+----------------------+
+| Menna Mahmoud  | Developer & Team Lead|
+| Shaza Mohamed  | Developer            |
+| Menna Ajmed    | Developer            |
++----------------+----------------------+
 
 ## 🛠️ Technologies Used
 
@@ -331,8 +345,6 @@ Adult-Income-Classification/
     ├── confusion_matrix.png
     └── feature_importance.png
 ```
-
----
 
 ## 👩‍💻 Project Goal
 
