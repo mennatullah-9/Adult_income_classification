@@ -302,12 +302,8 @@ This means:
 - Outliers were investigated rather than automatically removed, since extreme values may represent valid observations.
 
 ---
----
 
 ## 👥 Team
-
-Team
-====
 
 +----------------+----------------------+
 | Team Member    | Role                 |
